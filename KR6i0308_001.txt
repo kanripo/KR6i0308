@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:16:06.818184
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:20
 #+TITLE: 金光明經疏
 #+PROPERTY: CBETA_ID T39n1787
 #+PROPERTY: ID KR6i0308
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 39, No. 1787
 #+PROPERTY: VOL 39
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0308_T_000-0160a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0308_T_001-0160a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1787[cf.No.663]¶
-
- 金光明經疏¶
+No. 1787 [cf. No. 663]¶
+金光明經疏¶
 ¶
 沙門吉藏撰¶
 
@@ -1316,11 +1315,7 @@ No.1787[cf.No.663]¶
 所行處者是法身也。下半請現化身。¶
 金光明經疏一卷¶
 
-:PROPERTIES:
-:head: 鋟金光明經疏跋
-:END:
-
-鋟金光明經疏跋¶
+* 鋟金光明經疏跋¶
 
 右金光明經疏一卷。隋嘉祥大師釋曇無讖¶
 譯四卷經文所著也。文簡義顯。科節尤精。大¶
